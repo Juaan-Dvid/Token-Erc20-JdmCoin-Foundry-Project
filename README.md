@@ -1,3 +1,10 @@
+## Contract deployed on the Arbitrum Sepolia testnet blockchain
+
+# https://sepolia.arbiscan.io/address/0x233b64a91053bc3e30a3588fcdf4733ac91c2d73
+
+## Contract address: 0x233b64a91053Bc3E30a3588FcdF4733AC91c2d73
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
